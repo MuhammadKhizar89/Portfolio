@@ -3,7 +3,7 @@ import aboutIMG from '../assets/About.jpg'
 const About = () => {
   return (
     <div className='py-10 text-whte bg-[#232325] h-auto'>
-        <div className='flex sm:flex-row flex-col-reverse items-center md:gap-6 gap-12 px-10 max-w-6xl mx-auto'>
+        <div className='flex sm:flex-row flex-col-reverse items-center md:gap-6 gap-12 px-10 '>
 
     <div>
          <div className='w-[400px] h-full' >
