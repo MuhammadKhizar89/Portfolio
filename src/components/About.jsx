@@ -24,7 +24,7 @@ I am an undergraduate student of Software Engineering. I am interested in Web De
 </div>
     </div>
 <div className='flex mt-10 items-center gap-7'>
-    <div className='bg-[#333333]/40 p-5 rounded-lg '>
+    <div className='bg-[#333333]/40 p-5  rounded-lg '>
         <h3 className='ms:text-4xl text-2xl font-semibold text-white '>6
 <span className='primary-text'>+</span>
         </h3>
