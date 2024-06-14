@@ -18,13 +18,13 @@ const Work = () => {
             <h2 className="text-2xl lg:text-3xl text-white">
               My <span className="primary-color">Projects</span>
             </h2>
-            <p className="text-gray-500">
+            <p className="text-gray-500 mb-4">
               These are my latest projects that I have worked on.
             </p>
           </div>
         </div>
 
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
+        <div className="grid  md:grid-cols-3 gap-6 md:px-12 ">
         <div className="relative group">
             {/* Glowing effect */}
             <div className={glowingEffect}></div>

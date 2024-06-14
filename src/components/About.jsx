@@ -2,13 +2,14 @@ import React from 'react'
 import aboutIMG from '../assets/About.jpg'
 const About = () => {
   return (
-    <div className='py-10 text-whte bg-[#232325] h-auto'>
-        <div className='flex sm:flex-row flex-col-reverse items-center md:gap-6 gap-12 px-10 '>
+    <div className='flex w-full justify-center'>
+    <div className='py-10 text-white bg-[#232325]   h-auto'>
+        <div className='flex sm:flex-row flex-col-reverse items-center md:gap-6 gap-12 px-5 '>
 
     <div>
-         <div className='w-[400px] h-full' >
+         <div className='' >
             <img src={aboutIMG} alt="aboutimage"
-            className='object-cover w-11/12 mx-auto rounded-xl h-[300px] filter grayscale brightness-50'
+            className='object-cover mx-auto rounded-xl h-[300px] filter grayscale brightness-50'
             />
          </div>
     </div>
@@ -52,6 +53,7 @@ I am an undergraduate student of Software Engineering. I am interested in Web De
         </div>
 
         
+        </div>
         </div>
   )
 }

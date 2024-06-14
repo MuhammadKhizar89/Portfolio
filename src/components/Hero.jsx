@@ -5,7 +5,7 @@ import {TypeAnimation} from 'react-type-animation'
 const Hero = () => {
   return (
     <div>
-<div className='sm:px-4 max-w-[1200px] h-[80vh] mx-auto flex flex-col-reverse sm:flex-row justify-center align-center '>
+<div className='sm:px-4  h-[80vh] mx-auto flex flex-col-reverse sm:flex-row justify-center align-center '>
 <div className=' flex-col my-auto mx-auto'>
     <p className='md:text-5xl sm:text-4xl text-xl font-bold text-gray-200' >Hello I'm Muhammad khizar</p>
     <h1 className='md:text-7xl sm:text-6xl text-4xl font-bold md:py-6'>
