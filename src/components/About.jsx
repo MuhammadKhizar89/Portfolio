@@ -2,10 +2,9 @@ import React from 'react'
 import aboutIMG from '../assets/About.jpg'
 const About = () => {
   return (
-    <div className='flex w-full justify-center'>
+    <div className='flex w-full '>
     <div className='py-10 text-white bg-[#232325]   h-auto'>
         <div className='flex sm:flex-row flex-col-reverse items-center md:gap-6 gap-12 px-5 '>
-
     <div>
          <div className='' >
             <img src={aboutIMG} alt="aboutimage"
@@ -13,8 +12,6 @@ const About = () => {
             />
          </div>
     </div>
-
-
 <div>
     <div className='p-2'>
 <div className='text-gray-300 my-3'>

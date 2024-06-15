@@ -131,13 +131,16 @@ const Work = () => {
             </div>
             <div className="px-6 pt-4 pb-2  flex justify-between items-center">
               <a href="" target="_blank" className="bg-[#b023a2]  hover:bg-[#f711e0] text-white font-bold py-2 px-4 rounded">
-                Live Demo
+                Live Video
               </a>
               <span ><a href="https://github.com/MuhammadUmar7831/e-Commerce-Website" target="_blank" className="bg-[#b023a2]  hover:bg-[#f711e0] text-white font-bold py-2 px-4 rounded">
                 Code
               </a></span>
             </div>
           </div>
+        </div>
+        <div className='flex justify-center items-center'>
+        <button className='bg-[#b023a2]  h-20 w-20     hover:bg-[#f711e0] text-white font-bold py-2 px-4 rounded-xl'><a href="https://github.com/MuhammadKhizar89" target='_blank' > View More</a></button>
         </div>
         </div>
       </div>
