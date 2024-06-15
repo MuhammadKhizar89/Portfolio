@@ -5,7 +5,7 @@ import {TypeAnimation} from 'react-type-animation'
 const Hero = () => {
   return (
     <div>
-<div className='sm:px-4  h-[80vh] mx-auto flex flex-col-reverse sm:flex-row justify-center align-center '>
+<div className='sm:px-4  h-[80vh] mx-auto flex flex-col-reverse sm:flex-row justify-center align-center ' id='Home'>
 <div className=' flex-col my-auto mx-auto'>
     <p className='md:text-5xl sm:text-4xl text-xl font-bold text-gray-200' >Hello I'm Muhammad khizar</p>
     <h1 className='md:text-7xl sm:text-6xl text-4xl font-bold md:py-6'>
@@ -27,9 +27,15 @@ const Hero = () => {
     <p className='ms:text-5xl sm:text-4xl text-xl font-bold text-gray-500'> with a 7+ months experience </p>
 </div>
 <div className='text-5xl flex justify-start gap-16 my-7 text-purple-600'>
-    <AiFillLinkedin/>
-    <AiFillGithub/>
-    <AiFillInstagram/>
+<a href="https://www.linkedin.com/in/muhammad-khizar-0739192ab" target="_blank" rel="noopener noreferrer">
+                <AiFillLinkedin />
+              </a>
+              <a href="https://github.com/muhammadkhizar89" target="_blank" rel="noopener noreferrer">
+                <AiFillGithub />
+              </a>
+              <a href="https://www.instagram.com/m.khizar19" target="_blank" rel="noopener noreferrer">
+                <AiFillInstagram />
+              </a>
 </div>
 <div className='relative inline-flex group my-3'>
     <div className='absolute transition-all duration-1000 opcity-70 -inset-px bg-gradient-to-r

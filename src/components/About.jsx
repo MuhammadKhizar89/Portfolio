@@ -2,7 +2,7 @@ import React from 'react'
 import aboutIMG from '../assets/About.jpg'
 const About = () => {
   return (
-    <div className='flex w-full '>
+    <div className='flex w-full 'id='AboutMe'>
     <div className='py-10 text-white bg-[#232325]   h-auto'>
         <div className='flex sm:flex-row flex-col-reverse items-center md:gap-6 gap-12 px-5 '>
     <div>

@@ -11,8 +11,8 @@ const Work = () => {
     "absolute transition-all duration-1000 opacity-70 -inset-px bg-gradient-to-r from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-lg group-hover:opacity-100 group-hover:-inset-1 group-hover:duration-200 animate-tilt";
 
   return (
-    <div className="py-6 ">
-      <div className="mx-auto px-4 md:px-8">
+    <div className="py-6 "id='Projects'>
+      <div className="mx-auto px-2 md:px-8">
         <div className="mb-4 flex items-center justify-between gap-8">
           <div className="flex flex-col gap-4">
             <h2 className="text-2xl lg:text-3xl text-white">
@@ -24,7 +24,7 @@ const Work = () => {
           </div>
         </div>
 
-        <div className="grid  md:grid-cols-3 gap-6 md:px-12 ">
+        <div className="grid  md:grid-cols-2 lg:grid-cols-3 gap-6 md:px-12 ">
         <div className="relative group">
             {/* Glowing effect */}
             <div className={glowingEffect}></div>
@@ -131,7 +131,7 @@ const Work = () => {
             </div>
             <div className="px-6 pt-4 pb-2  flex justify-between items-center">
               <a href="" target="_blank" className="bg-[#b023a2]  hover:bg-[#f711e0] text-white font-bold py-2 px-4 rounded">
-                Live Video
+                Demo Video
               </a>
               <span ><a href="https://github.com/MuhammadUmar7831/e-Commerce-Website" target="_blank" className="bg-[#b023a2]  hover:bg-[#f711e0] text-white font-bold py-2 px-4 rounded">
                 Code
