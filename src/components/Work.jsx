@@ -39,7 +39,7 @@ const Work = () => {
                 <div className="text-2xl lg:text-3xl text-white mb-2">Forex Eagle Academy</div>
                 <p className="text-gray-700 text-base flex">
                   <FaReact className='text-[#00d8ff] h-10 w-10 m-2' />
-                  <SiTailwindcss className="text-blue-700 h-10 w-10 m-2" />
+                  <SiTailwindcss className="text-blue-500 h-10 w-10 m-2" />
                   <FaNodeJs className="text-[#5efa50] h-10 w-10 m-2" />
                   <SiMysql className="text-[#4ddeff] h-10 w-10 m-2" />
                   <SiExpress className="text-[#404D59] h-10 w-10 m-2" />
@@ -92,11 +92,11 @@ const Work = () => {
             <div className="px-6 py-4">
               <div className="text-2xl lg:text-3xl text-white mb-2">Tournament Sheduling System</div>
               <p className="text-gray-700 text-base flex ">
-              <FaJava className='text-[#b07219] h-10 w-10 m-2'/>
-                <SiTailwindcss className="text-[#38B2AC] h-10 w-10 m-2" />
-                <SiSpringboot className="text-[#6DB33F] h-10 w-10 m-2" />
-                <SiMysql className="text-[#00758F] h-10 w-10 m-2" />
-                <SiThymeleaf className="text-[#005F0F] h-10 w-10 m-2" />
+              <FaJava className='text-[#ffb44b] h-10 w-10 m-2'/>
+                <SiTailwindcss className="text-blue-500 h-10 w-10 m-2" />
+                <SiSpringboot className="text-[#47ff5f] h-10 w-10 m-2" />
+                <SiMysql className="text-[#4ddeff] h-10 w-10 m-2" />
+                <SiThymeleaf className="text-[#5efa50] h-10 w-10 m-2" />
               </p>
             </div>
             <div className="px-6 pt-4 pb-2  flex justify-between items-center">
@@ -122,9 +122,9 @@ const Work = () => {
               <p className="text-gray-700 text-base flex ">
                 
                <FaReact className='text-[#00d8ff] h-10 w-10 m-2' />
-                <SiTailwindcss className="text-blue-700 h-10 w-10 m-2" />
+                <SiTailwindcss className="text-blue-500 h-10 w-10 m-2" />
                 <FaNodeJs className="text-[#5efa50] h-10 w-10 m-2" />
-                <SiMysql className="text-[#00758F] h-10 w-10 m-2" />
+                <SiMysql className="text-[#4ddeff] h-10 w-10 m-2" />
                 <SiExpress className="text-[#404D59] h-10 w-10 m-2" />
                 
               </p>
