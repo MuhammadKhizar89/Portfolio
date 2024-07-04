@@ -7,8 +7,8 @@ const About = () => {
         <div className='flex sm:flex-row flex-col-reverse items-center md:gap-6 gap-12 px-5 '>
     <div>
          <div className='' >
-            <img src={aboutIMG} alt="aboutimage"
-            className='object-cover mx-auto rounded-xl h-[300px] filter grayscale brightness-50'
+            <img src="https://leetcode.card.workers.dev/muhammadkhizar8919?theme=dark&font=baloo&extension=null" alt="aboutimage"
+            className='object-cover mx-auto '
             />
          </div>
     </div>
