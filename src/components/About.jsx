@@ -23,21 +23,21 @@ I am an undergraduate student of Software Engineering. I am interested in Web De
     </div>
 <div className='flex mt-10 items-center gap-7'>
     <div className='bg-[#333333]/40 p-5  rounded-lg '>
-        <h3 className='ms:text-4xl text-2xl font-semibold text-white '>6
+        <h3 className='ms:text-4xl text-2xl font-semibold text-white '>8
 <span className='primary-text'>+</span>
         </h3>
 <p><span className='md:text-base text-xs'>Projects</span> </p>
     </div>
 
     <div className='bg-[#333333]/40 p-5 rounded-lg '>
-        <h3 className='ms:text-4xl text-2xl font-semibold text-white '>7
+        <h3 className='ms:text-4xl text-2xl font-semibold text-white '>1
 <span className='primary-text'>+</span>
         </h3>
-<p><span className='md:text-base text-xs'>Months Experience</span> </p>
+<p><span className='md:text-base text-xs'>Year Experience</span> </p>
     </div>
 
     <div className='bg-[#333333]/40 p-5 rounded-lg '>
-        <h3 className='ms:text-4xl text-2xl font-semibold text-white '>2
+        <h3 className='ms:text-4xl text-2xl font-semibold text-white '>4
 <span className='primary-text'>+</span>
         </h3>
 <p><span className='md:text-base text-xs'>Happy Clients</span> </p>
