@@ -9,8 +9,8 @@ const Experience = () => {
                 </h2>
                 <div className="mb-[20px] self-center text-white relative bg-gray-800/20 p-4 rounded-3xl max-w-[600px] ">
                     <p>0 Company</p>
-                    <p className="text-gray-400">(2004 - Present)</p>
-                    <p className="text-gray-500">No Company Yet</p>
+                    <p className="text-gray-400">(2024June -2024July)</p>
+                    <p className="text-gray-500">Axtra Software</p>
                 </div>
      {/* <div className='h-[50px] w-[2px] bg-slate-400 my-l mx-auto'></div>
         <div className='mb-[20px] self-center text-white relative bg-gray-800/20 p-4 rounded-3xl max-w-[600px] '>
